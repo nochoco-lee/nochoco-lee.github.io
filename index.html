@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>nochoco-lee | Personal Webpage</title>
+  <link href="https://fonts.googleapis.com/css?family=Montserrat:700,400&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --primary: #3a2c70;
+      --accent: #7e57c2;
+      --bg: #f6f7fb;
+      --card: #fff;
+      --text: #22223b;
+      --shadow: 0 6px 24px rgba(60, 60, 130, 0.05);
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      padding: 0;
+      font-family: 'Montserrat', Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+    }
+    .container {
+      background: var(--card);
+      border-radius: 18px;
+      box-shadow: var(--shadow);
+      padding: 2.5rem 2rem;
+      max-width: 420px;
+      width: 100%;
+      margin: 2rem auto;
+      text-align: center;
+      transition: box-shadow 0.3s;
+    }
+    .container:hover {
+      box-shadow: 0 10px 32px rgba(98, 60, 130, 0.18);
+    }
+    h1 {
+      font-size: 2.4rem;
+      font-weight: 700;
+      margin: 0 0 0.5rem 0;
+      color: var(--primary);
+      letter-spacing: -1px;
+    }
+    .subtitle {
+      font-size: 1.15rem;
+      color: var(--accent);
+      margin-bottom: 1.5rem;
+      font-weight: 400;
+    }
+    .avatar {
+      width: 104px;
+      height: 104px;
+      object-fit: cover;
+      border-radius: 50%;
+      border: 4px solid var(--accent);
+      margin-bottom: 1.2rem;
+      background: #ececec;
+      box-shadow: 0 2px 14px rgba(60, 60, 130, 0.05);
+    }
+    .links {
+      margin-top: 1.8rem;
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      gap: 0.9rem;
+    }
+    .links a {
+      background: var(--primary);
+      color: #fff;
+      text-decoration: none;
+      padding: 0.7em 1.5em;
+      border-radius: 999px;
+      font-weight: 600;
+      letter-spacing: 0.03em;
+      font-size: 1rem;
+      box-shadow: 0 2px 8px rgba(60, 60, 130, 0.13);
+      transition: background 0.2s, transform 0.18s;
+      display: inline-block;
+    }
+    .links a:hover {
+      background: var(--accent);
+      transform: translateY(-2px) scale(1.04);
+    }
+    @media (max-width: 480px) {
+      .container {
+        padding: 1.5rem 0.7rem;
+      }
+      h1 { font-size: 1.6rem; }
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <img src="https://avatars.githubusercontent.com/nochoco-lee" alt="nochoco-lee's avatar" class="avatar" onerror="this.style.display='none'">
+    <h1>nochoco-lee</h1>
+    <div class="subtitle">Welcome to my personal webpage!</div>
+    <p>
+      This is the official site for <b>nochoco-lee</b>.<br>
+      Explore my projects, GitHub repos, and connect with me.
+    </p>
+    <div class="links">
+      <a href="https://github.com/nochoco-lee" target="_blank" rel="noopener">GitHub</a>
+      <a href="mailto:your@email.com">Contact</a>
+      <!-- Add more links as desired -->
+    </div>
+  </div>
+</body>
+</html>
