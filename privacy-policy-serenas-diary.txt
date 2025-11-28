@@ -1,63 +1,40 @@
-  Privacy Policy for Serena's Diary
+Privacy Policy for Serena's Diary
 
-  Last Updated: November 21, 2025
+Last Updated: November 28, 2025
 
-  Thank you for choosing Serena's Diary. This Privacy Policy explains how your information is handled when you use our mobile application ("the App"). We are committed to
-  protecting your privacy and ensuring you have a secure and personal journaling experience.
+Thank you for choosing Serena's Diary. This Privacy Policy explains how your information is handled when you use our mobile application ("the App"). We are committed to protecting your privacy and ensuring you have a secure and personal journaling experience.
 
-  1. Data We Do Not Collect
+Data We Do Not Collect
+Your privacy is the core feature of Serena's Diary. We do not collect, store, or transmit any of your personal content.
 
-  Your privacy is the core feature of Serena's Diary. We do not collect, store, or transmit any of your personal content.
+Diary Entries & Emotions: All diary entries, including text, selected emotions, colors, and stickers, are stored exclusively on your local device. We, the developers, have no access to this information.
+Photos and Custom Stickers: When you create a custom sticker from a photo in your gallery, the App accesses your photo library only after you give explicit permission. The chosen photo is processed and stored as part of the diary entry data on your device only. It is never uploaded to our servers or any third-party service.
+Data We Collect and Why
+While your personal journal content is kept private, the App uses third-party services that may collect information for essential functionality.
 
-   * Diary Entries & Emotions: All diary entries, including text, selected emotions, colors, and stickers, are stored exclusively on your local device. We, the
-     developers, have no access to this information.
-   * Photos and Custom Stickers: When you create a custom sticker from a photo in your gallery, the App accesses your photo library only after you give explicit
-     permission. The chosen photo is processed and stored as part of the diary entry data on your device only. It is never uploaded to our servers or any third-party
-     service.
+Advertising Data (Google AdMob): The App uses Google AdMob to display advertisements, which helps keep the app free. We have configured AdMob to treat all ad requests as child-directed. This means personalized advertising is disabled, and data collection is limited to what is necessary for serving contextual ads and ensuring ad performance. We do not share any of your personal diary content with Google. For more information on how Google collects and uses your data, please review Google's Privacy & Terms: https://policies.google.com/technologies/ads
 
-  2. Data We Collect and Why
+Analytics and Crash Data (Google Play Services): The App may use Google Play Services to automatically collect anonymous usage and crash data. This information is completely anonymous and helps us identify bugs, understand how the app is used, and improve stability and performance. This data does not include any personal content from your diary entries.
 
-  While your personal journal content is kept private, the App uses third-party services that may collect information for essential functionality.
+Data Security
+We take the security of your locally stored data seriously.
 
-   * Advertising Data (Google AdMob):
-      The App uses Google AdMob to display advertisements, which helps keep the app free. AdMob may collect and use data to provide personalized advertising. This may
-  include device information, location data, and advertising identifiers. We do not share any of your personal diary content with Google. For more information on how
-  Google collects and uses your data, please review Google's Privacy & Terms: https://policies.google.com/technologies/ads (https://policies.google.com/technologies/ads)
+Local Storage: All your diary content is stored in a private database on your device's internal storage, which is protected by the Android operating system.
+Password Protection: The App provides a PIN lock feature to add an extra layer of security. It is your responsibility to set a secure PIN and keep it confidential.
+Children's Privacy
+We understand the importance of protecting the privacy of children. Serena's Diary is designed to be safe for all ages.
 
-   * Analytics and Crash Data (Google Play Services):
-      The App may use Google Play Services to automatically collect anonymous usage and crash data. This information is completely anonymous and helps us identify bugs,
-  understand how the app is used, and improve stability and performance. This data does not include any personal content from your diary entries.
+We do not knowingly collect any personally identifiable information from children. All journal content is stored locally on the user's device and is not accessible by us.
+Family-Safe Ads: We have explicitly configured our ad settings to be family-safe. We enforce a maximum ad content rating of 'G' (General Audiences) and have tagged all ad requests for child-directed treatment (compliant with COPPA). This ensures that only age-appropriate ads are shown and that personalized advertising is disabled for all users.
+Your Control Over Your Data
+Since all your diary content is stored locally on your device, you have complete control. You can manage your data by:
 
-  3. Data Security
+Editing or deleting individual diary entries within the App.
+Uninstalling the App to permanently delete all of its data from your device.
+Changes to This Privacy Policy
+We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy at this URL. You are advised to review this Privacy Policy periodically for any changes.
 
-  We take the security of your locally stored data seriously.
+Contact Us
+If you have any questions about this Privacy Policy, please contact us at:
 
-   * Local Storage: All your diary content is stored in a private database on your device's internal storage, which is protected by the Android operating system.
-   * Password Protection: The App provides a PIN lock feature to add an extra layer of security. It is your responsibility to set a secure PIN and keep it confidential.
-
-  4. Children's Privacy
-
-  We understand the importance of protecting the privacy of children. Serena's Diary is designed to be safe for all ages.
-
-   * We do not knowingly collect any personally identifiable information from children. All journal content is stored locally on the user's device and is not accessible
-     by us.
-   * The App displays ads through Google AdMob. While we have configured our ad settings to be appropriate for a general audience, these third-party ad networks operate
-     under their own privacy policies. We encourage parents to review Google's policies and supervise their children's online activities.
-
-  5. Your Control Over Your Data
-
-  Since all your diary content is stored locally on your device, you have complete control. You can manage your data by:
-
-   * Editing or deleting individual diary entries within the App.
-   * Uninstalling the App to permanently delete all of its data from your device.
-
-  6. Changes to This Privacy Policy
-
-  We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy at this URL. You are advised to review this
-  Privacy Policy periodically for any changes.
-
-  7. Contact Us
-
-  If you have any questions about this Privacy Policy, please contact us at:
-
-  nochoco.lee@gmail.com
+nochoco.lee@gmail.com
